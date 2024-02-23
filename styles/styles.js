@@ -28,6 +28,17 @@ const styles = StyleSheet.create({
     borderColor: 'green',
     alignItems: 'center',
   },
+  deleteBox: {
+    width: 300,
+    height: 100,
+    backgroundColor: 'white',
+    padding: 30,
+    margin: 10,
+    borderRadius: 700,
+    borderWidth: 2,
+    borderColor: 'red', // Override borderColor here
+    alignItems: 'center',
+  },
   alarmTimeBox: {
     // width: 300,
     // height: 100,
